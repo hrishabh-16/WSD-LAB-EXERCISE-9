@@ -1,0 +1,57 @@
+/* src/components/Header.css */
+
+header {
+  background-color: #007BFF; /* Add your desired background color here */
+  color: #ffffff; 
+  padding: 10px 0;
+  border: 2px solid #000000;
+  border-radius: 5px;
+}
+header h1{
+  color:#000000
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  
+}
+
+nav ul li {
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: rgb(11, 0, 0); 
+  text-decoration: none;
+  
+}
+
+nav ul li a:hover {
+  text-decoration: underline; 
+  header {
+  background-color: #fff;
+  color: black;
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: none;
+  
+}
+}
